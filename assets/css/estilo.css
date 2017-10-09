@@ -131,7 +131,9 @@ position: absolute;
     color: #4f81bc;
 }
 
-
+.thumbnail {
+    margin-top: 20px;
+}
 
 
 @media screen and (max-width: 768px) {
